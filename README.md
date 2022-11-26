@@ -129,7 +129,8 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 ![203840790-44917b1e-78a4-4d0a-8af3-8cf34d82aa30](https://user-images.githubusercontent.com/94296221/204073244-c7dfa63b-a8f0-4b04-abc8-ac3c12877336.png)
 ![203840847-72a20c77-92ae-4417-a824-7261c4aa0070](https://user-images.githubusercontent.com/94296221/204073254-1eb673bf-5206-466e-a85a-5b344b742d69.png)
 
-![Uploading 176931708-46801e7e-fdf9-47ec-aec4-6b5816e60859.png…]()
+
+![spot1 3](https://user-images.githubusercontent.com/94296221/204073362-fda1809f-71ff-4ffe-ac8e-df828be14f7f.png)
 
 
 ### Result:
